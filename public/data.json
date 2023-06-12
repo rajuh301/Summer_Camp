@@ -1,0 +1,38 @@
+[
+    {
+        "sport": "Football",
+        "image": "https://a.storyblok.com/f/112937/568x464/82f66c3a21/all_the_english-_football_terms_you_need_to_know_blog-hero-low.jpg/m/620x0/filters:quality(70)/",
+        "price": 19.99,
+        "rating": 4.5
+    },
+    {
+        "sport": "Basketball",
+        "image": "https://a.storyblok.com/f/112937/568x464/82f66c3a21/all_the_english-_football_terms_you_need_to_know_blog-hero-low.jpg/m/620x0/filters:quality(70)/",
+        "price": 15.99,
+        "rating": 4.2
+    },
+    {
+        "sport": "Tennis",
+        "image": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gocolumbialions.com/images/2023/3/20/mt.jpg",
+        "price": 12.99,
+        "rating": 4.7
+    },
+    {
+        "sport": "Cricket",
+        "image": "https://www.kreedon.com/wp-content/uploads/2019/06/how-to-become-a-cricketer-kreedon.jpg",
+        "price": 9.99,
+        "rating": 4.0
+    },
+    {
+        "sport": "Golf",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/5b5d62b/2147483647/strip/true/crop/5041x3361+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F53%2F82%2Fbf3688e94bd6bde6821999ec68f5%2Ftaylormade.jpg",
+        "price": 24.99,
+        "rating": 4.8
+    },
+    {
+        "sport": "Swimming",
+        "image": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg",
+        "price": 7.99,
+        "rating": 4.3
+    }
+]
